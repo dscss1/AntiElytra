@@ -21,8 +21,6 @@ public final class AntiElytra extends JavaPlugin {
 
         Bukkit.getLogger().info("AntiElytra has been activated!");
 
-        String activator = getConfig().getString("drop");
-
         Bukkit.getPluginManager().registerEvents(new AElytra_Event(), this);
 
         getCommand("antielytra").setExecutor(new AElytra_Commands());
