@@ -1,0 +1,7 @@
+name: AntiElytra
+version: '1.4.1-SNAPSHOT'
+main: org.example.abs.antielytra.AntiElytra
+api-version: '1.21'
+
+commands:
+  antielytra:

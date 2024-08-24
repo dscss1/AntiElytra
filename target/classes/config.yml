@@ -1,0 +1,15 @@
+## A config plugin AElytra ( AntiElytra )
+## AElytra ( AntiElytra ) by wleku ( https://t.me/wleku )
+
+
+messages:
+  noPerm: "§cNo permissions"
+  disableElytra: "§cElytra has been disabled" ## Messsage in try usage elytra
+  disableWorld: "§6Elytra has been disabled this world" ## Warn message in join has disabled elytras
+  reloaded: "§3Plugin has been reloaded!"
+
+
+
+## Worlds list disabled elytra
+worlds:
+  - world_the_end

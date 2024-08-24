@@ -1,0 +1,4 @@
+org\example\abs\antielytra\AElytra_Commands.class
+org\example\abs\antielytra\AntiElytra.class
+org\example\abs\antielytra\AElytra_Event.class
+org\example\abs\antielytra\AElytra_tabcompleter.class
